@@ -55,7 +55,7 @@ Local connectors give you access to in Browser/Memory DB's such as LokiJs, Index
 
 | Provider        | Library         | 
 | --------------- | --------------- |
-| LockiJS          | fluent-loki   |
+| LokiJS          | fluent-loki   |
 
 ### MERGE
 Merge connectors will pull from both Local and Remote storage providers and will merge results
